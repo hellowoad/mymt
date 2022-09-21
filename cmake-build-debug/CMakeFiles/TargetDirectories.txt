@@ -1,0 +1,3 @@
+/Users/hewo/WORKSPACE/CLionProjects/mymt/cmake-build-debug/CMakeFiles/mymt.dir
+/Users/hewo/WORKSPACE/CLionProjects/mymt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hewo/WORKSPACE/CLionProjects/mymt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
